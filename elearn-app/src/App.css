@@ -28,7 +28,7 @@ body {
   line-height: 40px;
   border-radius: 50%;
   text-align: center;
-  background-color: rgba(red, green, blue, alpha);
+  background-color: rgba(red, green, rgb(53, 53, 222), alpha);
   color: #1eb2a6;
   transition: 0.5s;
 }
@@ -37,5 +37,11 @@ body {
   cursor: pointer;
   background-color: #1eb2a6;
   color: #fff
+}
+a{
+  text-decoration: none;
+}
+button{
+  border: none;
 }
   
