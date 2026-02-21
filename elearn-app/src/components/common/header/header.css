@@ -10,13 +10,11 @@
 .head .icon {
   margin-left: 10px;
 }
-
-
+/*--------head------------*/
 /*--------header------------*/
 header {
   background-color: rgba(255, 255, 255, 0.2);
   margin: 0 30px;
-  position: relative;
 }
 header .nav {
   display: flex !important;
@@ -26,10 +24,6 @@ header li {
 }
 header ul {
   padding: 30px 20px;
-}
-header ul.flexSB,
-header ul.header-nav-list {
-  list-style: none;
 }
 header ul li a {
   color: #fff;

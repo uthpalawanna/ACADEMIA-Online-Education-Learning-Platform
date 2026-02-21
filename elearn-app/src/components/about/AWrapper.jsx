@@ -1,7 +1,7 @@
 import React from "react"
 import { awrapper } from "../../dummydata"
 
-const Awrapper = () => {
+const AWrapper = () => {
   return (
     <>
       <section className='awrapper'>
@@ -25,4 +25,4 @@ const Awrapper = () => {
   )
 }
 
-export default Awrapper
+export default AWrapper

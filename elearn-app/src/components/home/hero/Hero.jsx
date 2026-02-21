@@ -1,6 +1,7 @@
  import React from 'react'
  import "./hero.css"
  import Title from "../../common/title/title"
+ 
 
  const Hero = () => {
    return (

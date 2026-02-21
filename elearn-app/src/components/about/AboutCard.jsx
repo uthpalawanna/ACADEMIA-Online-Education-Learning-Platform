@@ -1,8 +1,8 @@
 import React from "react"
-import Heading from "../common/heading/Heading"
+import Heading from "../common/header/Head"
 import "./about.css"
 import { homeAbout } from "../../dummydata"
-import AWrapper from "./AWrapper"
+import Awrapper from "./AWrapper"
 
 const AboutCard = () => {
   return (
