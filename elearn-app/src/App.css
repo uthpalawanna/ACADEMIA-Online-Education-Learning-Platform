@@ -6,7 +6,7 @@
 }
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #f8f8f8;
+  background-color: #858484;
 }
 /*------------global-----------*/
 .container {
@@ -23,7 +23,7 @@ body {
   line-height: 40px;
   border-radius: 50%;
   text-align: center;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.2);
   color: #1eb2a6;
   transition: 0.5s;
 }
