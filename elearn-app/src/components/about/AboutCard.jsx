@@ -2,7 +2,7 @@ import React from "react"
 import Heading from "../common/heading/Heading"
 import "./about.css"
 import { homeAbout } from "../../dummydata"
-import Awrapper from "./AWrapper"
+import AWrapper from "./AWrapper"
 
 const AboutCard = () => {
   return (
