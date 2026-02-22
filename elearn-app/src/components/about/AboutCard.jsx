@@ -1,5 +1,5 @@
 import React from "react"
-import Heading from "../common/header/Head"
+import Heading from "../common/heading/Heading"
 import "./about.css"
 import { homeAbout } from "../../dummydata"
 import AWrapper from "./AWrapper"
