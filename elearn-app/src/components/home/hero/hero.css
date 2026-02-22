@@ -2,16 +2,22 @@
     background-image: url('C:\Users\User\Desktop\E-Learn\elearn-app\public\images\bg.webp');
     background-size: cover;
     background-attachment: fixed;
-    position: relative;
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    min-height: 100vh;
-    padding: 180px 50px 0 0;
+    height: 100vh;
+    padding-top: 20%;
+    padding-right: 50px;
+    color: #fff;
+    z-index: -1;
+    /**padding: 180px 50px 0 0;
     color: #fff;
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    box-sizing: border-box;
-    z-index: 1;
+    box-sizing: border-box;**/
+    
 }
 
 .hero::before {

@@ -8,7 +8,7 @@ const Back = ({ title, location }) => {
         <h2>Home / {location.pathname.split("/")[1]}</h2>
         <h1>{title}</h1>
       </section>
-      <div className="marigin"></div>
+      <div className="margin"></div>
     </div>
   );
 };
