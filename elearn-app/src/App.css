@@ -159,4 +159,7 @@ p {
     padding-top: 50%;
     height: 80vh;
   }
+  .margin {
+    margin-top: 85%;
+  }
 }

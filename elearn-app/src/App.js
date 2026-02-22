@@ -3,6 +3,7 @@ import Header from "./components/common/header/Header"
 import { BrowserRouter as Router, Switch,Route } from "react-router-dom"
 import Home from "./components/home/Home"
 import About from "./components/about/About"
+import CourseHome from "./components/allcourses/CourseHome"
 
 function App() {
   return (
