@@ -1,14 +1,19 @@
-import React from 'react'
-import BlogCard from './BlogCard'
-import Back from '../common/back/Back'
+import React from "react"
+import Back from "../common/back/Back"
+import BlogCard from "./Blogcard"
+import "./blog.css"
 
-const Blogcard = () => {
+const Blog = () => {
   return (
     <>
-    <Back title="Blog Post" />
-        <BlogCard />
+      <Back title='Blog Posts' />
+      <section className='blog padding'>
+        <div className='container grid2'>
+          <BlogCard />
+        </div>
+      </section>
     </>
   )
 }
 
-export default Blogcard
+export default Blog
