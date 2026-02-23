@@ -3,19 +3,19 @@ export const homeAbout = [
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
     title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Access a wide range of courses anytime, anywhere. Learn at your own pace with flexible schedules and interactive content designed to fit your lifestyle.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
     title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Validate your skills and boost your career with industry-recognized certificates. Showcase your achievements and stand out to employers.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/athlete.png",
     title: "Learn with Expert",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Gain insights from experienced professionals who bring real-world knowledge to every lesson. Get personalized guidance and practical tips to master new topics.",
   },
 ]
 export const awrapper = [
@@ -289,22 +289,22 @@ export const price = [
   {
     name: "BASIC PLAN",
     price: "49K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Perfect for beginners. Get access to essential courses and start your learning journey with core features and community support.",
   },
   {
     name: "BEGINNER PLAN",
     price: "79K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Ideal for those ready to dive deeper. Includes intermediate courses, quizzes, and personalized progress tracking.",
   },
   {
     name: "PREMIUM PLAN",
     price: "109k",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Designed for serious learners. Enjoy advanced courses, certificate of completion, and priority instructor support.",
   },
   {
     name: "ULTIMATE PLAN",
     price: "149K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "All-access pass to everything. Get unlimited courses, 1-on-1 mentoring, lifetime certificates, and exclusive resources.",
   },
 ]
 export const faq = [
@@ -394,21 +394,21 @@ export const testimonal = [
     id: 1,
     name: "ROGER SCOTT",
     post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "The courses transformed my career. I gained practical skills that helped me land my dream job in just three months.",
     cover: "./images/testo/t1.webp",
   },
   {
     id: 2,
     name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    post: "Software Developer",
+    desc: "The flexibility of online learning allowed me to upskill while working full-time. Now I'm building apps I never thought possible.",
     cover: "./images/testo/t2.webp",
   },
   {
     id: 3,
     name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    post: "Entrepreneur",
+    desc: "I started my own business using knowledge gained from Academia. The expert instructors made all the difference.",
     cover: "./images/testo/t3.webp",
   },
 ]
