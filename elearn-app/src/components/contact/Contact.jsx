@@ -19,11 +19,11 @@ const Contact = () => {
             <div className='items grid2'>
               <div className='box'>
                 <h4>ADDRESS:</h4>
-                <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+                <p>NO. 6, RAYMOND ROAD, COLOMBO</p>
               </div>
               <div className='box'>
                 <h4>EMAIL:</h4>
-                <p> info@user.com</p>
+                <p> info@ACADEMIA.com</p>
               </div>
               <div className='box'>
                 <h4>PHONE:</h4>

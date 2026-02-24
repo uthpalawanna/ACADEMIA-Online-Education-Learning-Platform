@@ -310,27 +310,27 @@ export const price = [
 export const faq = [
   {
     title: "How to Enroll This Online Courses?",
-    desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    desc: "Simply browse our courses, select your plan, create an account, complete payment, and start learning immediately.",
   },
   {
     title: "Where It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    desc: "The answer is stored in a collapsible section directly below the question. It becomes visible when you click the question.",
   },
   {
     title: "How It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    desc: "We use CSS (like display: none or max-height: 0) to hide the answer initially, and JavaScript reveals it when the question is clicked.",
   },
   {
-    title: "How to Enroll This Online Courses?",
-    desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "What payment methods do you accept?",
+    desc: "We accept all major credit cards (Visa, MasterCard, Amex), PayPal, and bank transfers for annual plans.",
   },
   {
-    title: "Where It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "Do I get a certificate after completing a course?",
+    desc: "Absolutely! All paid courses include a shareable certificate of completion you can add to your LinkedIn profile.",
   },
   {
-    title: "How It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "Is there a free trial available?",
+    desc: "We offer a 7-day free trial on select courses. No commitment required – cancel anytime.",
   },
 ]
 export const blog = [
@@ -339,8 +339,8 @@ export const blog = [
     type: "admin",
     date: "JAN. 18, 2021",
     com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Mastering Python: From Beginner to Job-Ready in 6 Months",
+    desc: "A step-by-step roadmap with resources, projects, and tips to become a Python developer.",
     cover: "../images/blog/b1.webp",
   },
   {
@@ -348,8 +348,8 @@ export const blog = [
     type: "admin",
     date: "API. 25, 2022",
     com: "5 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "The Complete Guide to System Design Interviews",
+    desc: "Learn how top engineers approach architecture questions and impress FAANG interviewers.",
     cover: "../images/blog/b2.webp",
   },
   {
@@ -357,8 +357,8 @@ export const blog = [
     type: "user",
     date: "MAY. 15, 2022",
     com: "10 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Remote Work Revolution: Thriving as a Distributed Engineer",
+    desc: "Learn the secrets to staying productive, visible, and balanced while working from home.",
     cover: "../images/blog/b3.webp",
   },
   {
@@ -366,8 +366,8 @@ export const blog = [
     type: "admin",
     date: "JAN. 02, 2022",
     com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "From Bootcamp to Breakthrough: A Graduate's Success Story",
+    desc: "How one student went from zero coding knowledge to a full-time developer role in 8 months.",
     cover: "../images/blog/b4.webp",
   },
   {
@@ -375,8 +375,8 @@ export const blog = [
     type: "admin",
     date: "DEC. 14, 2022",
     com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Work-Life Balance as a Developer: Myth or Reality?",
+    desc: "Stories and strategies from engineers who made it work.",
     cover: "../images/blog/b5.webp",
   },
   {
@@ -384,8 +384,8 @@ export const blog = [
     type: "user",
     date: "JAN. 18, 2021",
     com: "12 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Open Source Contribution: How to Start and Why It Matters",
+    desc: "Boost your resume and learn from real-world projects by contributing to open source.",
     cover: "../images/blog/b6.webp",
   },
 ]

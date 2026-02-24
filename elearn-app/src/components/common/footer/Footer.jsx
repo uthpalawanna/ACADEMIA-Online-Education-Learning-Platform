@@ -9,7 +9,7 @@ const Footer = () => {
         <div className='container flexSB'>
           <div className='left row'>
             <h1>Newsletter - Stay tune and get the latest update</h1>
-            <span>Far far away, behind the word mountains</span>
+            <span>Subscribe to our newsletter and receive exclusive updates, new course alerts, and special offers directly in your inbox.</span>
           </div>
           <div className='right row'>
             <input type='text' placeholder='Enter email address' />
@@ -22,7 +22,7 @@ const Footer = () => {
           <div className='box logo'>
             <h1>ACADEMIA</h1>
             <span>ONLINE EDUCATION & LEARNING</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <p>Start your learning journey with world-class courses designed to help you achieve your goals. Join millions of learners and unlock your potential today.</p>
 
             <i className='fab fa-facebook-f icon'></i>
             <i className='fab fa-twitter icon'></i>
@@ -74,7 +74,7 @@ const Footer = () => {
             <ul>
               <li>
                 <i className='fa fa-map'></i>
-                203 Fake St. Mountain View, San Francisco, California, USA
+                NO. 6, RAYMOND ROAD, COLOMBO
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
@@ -82,7 +82,7 @@ const Footer = () => {
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                info@yourdomain.com
+                info@ACADEMIA.com
               </li>
             </ul>
           </div>
